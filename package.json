@@ -1,6 +1,6 @@
 {
   "name": "my-cv",
-  "homepage": "https://kmarahemarah.github.io/kmarah-portfolio/",
+  "homepage": "https://kmarah-portfolio.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
